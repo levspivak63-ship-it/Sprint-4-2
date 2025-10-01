@@ -19,7 +19,7 @@
 - проверка метода delete_book_from_favorites
 - проверка метода get_list_of_favorites_books
 
-Всего выполнено 14 тестов. Все результаты тестов - положительные.
+Всего выполнено 14 тестов. Все результаты тестов - положительные:
 
 tests.py::TestBooksCollector::test_add_new_book_add_two_books PASSED                                                                     [  7%]
 tests.py::TestBooksCollector::test__add_new_book_add_48_len PASSED                                                                       [ 14%]
@@ -35,3 +35,5 @@ tests.py::TestBooksCollector::test_add_book_in_favorites_new PASSED             
 tests.py::TestBooksCollector::test_add_book_in_favorites_already_added PASSED                                                            [ 85%]
 tests.py::TestBooksCollector::test_delete_book_from_favorites PASSED                                                                     [ 92%]
 tests.py::TestBooksCollector::test_get_list_of_favorites_books PASSED       
+
+
